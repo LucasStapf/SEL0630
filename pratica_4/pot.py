@@ -10,7 +10,6 @@ try:
 
         val_completo = (high_byte << 2) | low_byte
 
-        #data = bus.read_i2c_block_data(addr, 0, 2)
         print(f"Valor recebido: {val_completo}")
 except KeyboardInterrupt:
     print("Programa terminado")
