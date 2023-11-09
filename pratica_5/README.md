@@ -10,3 +10,7 @@ Para a realização desta prática, foram utilizadas as bibliotecas OpenCV e PiC
 Nesta prática, foi utilizado um módulo RFID MFC522 para realizar a leitura e gravação da tag. O propósito do código é de gravar um texto na memória da tag e depois realizar leituras do ID e do conteúdo da memória da tag para imprimir no terminal. A imagem abaixo mostra o circuito montado.
 
 ![Circuito montado com o sistema Tag RFID + Raspberry Pi](./tag-rfid.jpeg)
+
+## Integrantes
+- Lucas Carvalho Freiberger Stapf (11800559)
+- Vitor Favrin Carrera Miguel (1800646)
